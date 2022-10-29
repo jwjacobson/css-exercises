@@ -1,6 +1,11 @@
 .clickme,
 .no {
-    background-color: brown;
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+
+.clickme {
+    color: white;
+    background-color: black;
 }
