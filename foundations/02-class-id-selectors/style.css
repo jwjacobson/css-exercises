@@ -1,4 +1,4 @@
-p {
+.oddnumbers {
     background-color:pink;
     font-family: Verdana, "Dejavu Sans", sans-serif;
     }
@@ -12,4 +12,8 @@ p {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
+}
+
+#number3 {
+    font-size: 24px;
 }
